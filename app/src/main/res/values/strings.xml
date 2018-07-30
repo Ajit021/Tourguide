@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tourguide</string>
+
+    <string name="ramnagar">RamNagar Fort</string>
+    <string name="Manikarnika">Manikarnika Ghat</string>
+    <string name="kashitemple">Shri Kashi Vishwanath Temple</string>
+    <string name="Darbhanga">Darbhaga Ghat</string>
+    <string name="Panchganga">Panchganga Ghat</string>
+
+    <string name="River">River Ganges</string>
+    <string name="Bhu">BHU</string>
+    <string name="Statue">Statue of Standing Buddha</string>
+    <string name="sarnath">Sarnath</string>
+    <string name="Chunar">Chunar Fort</string>
+    <string name="mary">St. Mary\'s Church</string>
+    <string name="Bharat">Bharat Mata TEmple</string>
+
+
+    <string name="Annapurna">Shri Annapurna Restaurant,Banquet And Sweet Shop</string>
+    <string name="varanasi">Varanasi Cafe And Bakery Restaurant</string>
+    <string name="canton">Canton Royale Restaurant</string>
+    <string name="ganpati">Ganpati Restaurant</string>
+
+    <string name="newkashi">New Vishwanath Temple</string>
+    <string name="bharatkala">Bharat Kala Bhavan</string>
+    <string name="chaukhandi">Chaukhandi Stupa</string>
+    <string name="gyanvapi">Gyanvapi Mosque</string>
+
+
+</resources>
